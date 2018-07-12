@@ -1,5 +1,5 @@
-let id = 'b46e53d9-9619-4c0d-bcc4-da90db7ba17b';
-let key = 'HKVLXTUXBBKMZTYJLUATQBFEIXDKFLUJKNPTQWNT';
+let id = '';
+let key = '';
 let paramsCielo = {
     'MerchantId': id,
     'MerchantKey': key,
